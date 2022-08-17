@@ -73,5 +73,8 @@
         .middle4{
             font-size: 15px;
         }
+        .left4{
+            text-align: center;
+        }
     }
 </style>

@@ -99,5 +99,8 @@
         .middle3 {
             font-size: 30px;
         }
+        .right3{
+            text-align: center;
+        }
     }
 </style>
